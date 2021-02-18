@@ -1,3 +1,3 @@
 # Image Recognition Application
 
-This is a full-stack React app.
+This full-stack React application enables users to submit photos to detect images. 
